@@ -82,266 +82,62 @@ This document contains a comprehensive list of resources organized by topic to s
 ## 🎥 Video Courses & Tutorials
 
 ### Free Resources
-- **[freeCodeCamp](https://www.freecodecamp.org/)** - Free coding tutorials and projects
-- **[CS50 by Harvard](https://cs50.harvard.edu/)** - Introduction to computer science
-- **[MIT OpenCourseWare](https://ocw.mit.edu/)** - Free lecture notes, exams, and videos
-- **[Khan Academy Computing](https://www.khanacademy.org/computing)** - Computer science tutorials
-- **[YouTube: TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)** - DevOps and Docker tutorials
-- **[YouTube: Fireship](https://www.youtube.com/c/Fireship)** - High-intensity tech tutorials
+- **[freeCodeCamp](https://www.freecodecamp.org/)** - Free coding tutorials and certifications
+- **[Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)** - Free CS courses
+- **[MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)** - Free university-level CS courses
+- **[Stanford CS Library](https://cslibrary.stanford.edu/)** - Free CS educational materials
 
-### Paid Platforms (Worth Considering)
-- **[Udemy](https://www.udemy.com/)** - Individual course purchases
+### Paid Platforms
+- **[Udemy](https://www.udemy.com/)** - Wide variety of technical courses
 - **[Coursera](https://www.coursera.org/)** - University-backed courses and specializations
-- **[Pluralsight](https://www.pluralsight.com/)** - Technology skill development platform
-- **[Frontend Masters](https://frontendmasters.com/)** - Advanced frontend engineering courses
-- **[Educative.io](https://www.educative.io/)** - Interactive coding courses
-
-## 🛠️ Practice Platforms
-
-### Coding Practice
-- **[LeetCode](https://leetcode.com/)** - Coding interview preparation platform
-- **[HackerRank](https://www.hackerrank.com/)** - Technical skill assessment and practice
-- **[CodeSignal](https://codesignal.com/)** - Developer skill assessment platform
-- **[Codewars](https://www.codewars.com/)** - Coding practice through challenges
-- **[Exercism](https://exercism.org/)** - Code practice and mentorship
-
-### Mock Interviews
-- **[Pramp](https://www.pramp.com/)** - Free peer-to-peer mock interviews
-- **[Interviewing.io](https://interviewing.io/)** - Anonymous technical interviews with engineers
-- **[Gainlo](https://www.gainlo.co/)** - Mock interviews with FAANG engineers
-- **[Interview Query](https://www.interviewquery.com/)** - Data science interview preparation
-
-### System Design Practice
-- **[Exponent](https://www.exponent.ai/)** - System design interview preparation
-- **[Interview Query System Design](https://www.interviewquery.com/system-design-interview-questions)** - System design questions
-- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** - Structured system design learning
-
-## 📰 Blogs & Newsletters
-
-### Engineering Blogs
-- **[Netflix Tech Blog](https://netflixtechblog.com/)** - Streaming platform engineering insights
-- **[Uber Engineering Blog](https://www.uber.com/blog/engineering/)** - Scalability and distributed systems
-- **[Airbnb Engineering](https://medium.com/airbnb-engineering)** - Travel platform engineering
-- **[Spotify Engineering](https://engineering.atspotify.com/)** - Music streaming platform insights
-- **[Dropbox Tech Blog](https://dropbox.tech/)** - File synchronization and storage engineering
-
-### AI/ML Focused
-- **[Hugging Face Blog](https://huggingface.co/blog)** - Latest in NLP and transformers
-- **[Pinecone Blog](https://www.pinecone.io/learn/)** - Vector databases and similarity search
-- **[Weights & Biases Blog](https://wandb.ai/site/blog)** - Machine learning experimentation
-- **[MIT News AI](https://news.mit.edu/topic/artificial-intelligence2)** - AI research developments
-- **[Google AI Blog](https://blog.google/technology/ai/)** - Google's AI research and applications
-
-### DevOps & Infrastructure
-- **[Docker Blog](https://www.docker.com/blog/)** - Containerization news and tutorials
-- **[Kubernetes Blog](https://kubernetes.io/blog/)** - Container orchestration updates
-- **[AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)** - Cloud architecture best practices
-- **[Google Cloud Blog](https://cloud.google.com/blog)** - GCP products and solutions
-- **[CNCF Blog](https://www.cncf.io/blog/)** - Cloud-native computing foundation
-
-## 📱 Mobile Apps for Learning
-
-### Flashcards & Spaced Repetition
-- **[Anki](https://apps.ankiweb.net/)** - Powerful flashcard app with spaced repetition
-- **[Quizlet](https://quizlet.com/)** - Simple flashcard creation and study
-- **[Brainscape](https://www.brainscape.com/)** - Adaptive flashcard platform
-
-### Coding Practice
-- **[SoloLearn](https://www.sololearn.com/)** - Learn to code on mobile
-- **[Mimo](https://mimo.org/)** - Bite-sized coding lessons
-- **[Encode](https://encode.dev/)** - Interactive coding challenges
-- **[Programming Hub](https://www.programminghub.io/)** - Multiple language learning
-
-### Interview Prep
-- **[Pramp Mobile](https://www.pramp.com/)** - Mock interviews on mobile
-- **[LeetCode Mobile](https://leetcode.com/)** - Coding practice on the go
-- **[Interview Ready](https://interviewready.app/)** - Interview question practice
+- **[Pluralsight](https://www.pluralsight.com/)** - Technology-focused skill development
+- **[Frontend Masters](https://frontendmasters.com/)** - Advanced frontend development training
 
 ## 🔧 Development Tools
 
 ### Code Editors & IDEs
-- **[VS Code](https://code.visualstudio.com/)** - Free, extensible code editor
-- **[JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)** - Professional Java IDE (supports many languages)
-- **[PyCharm](https://www.jetbrains.com/pycharm/)** - Python-specific IDE
-- **[WebStorm](https://www.jetbrains.com/webstorm/)** - JavaScript/TypeScript IDE
-- **[Neovim](https://neovim.io/)** - Modern Vim-based text editor
+- **[VS Code](https://code.visualstudio.com/)** - Free, open-source code editor
+- **[JetBrains IDEs](https://www.jetbrains.com/)** - Professional IDEs (IntelliJ, PyCharm, WebStorm)
+- **[Sublime Text](https://www.sublimetext.com/)** - Fast, lightweight code editor
 
 ### Version Control
-- **[Git Official Documentation](https://git-scm.com/doc)** - Version control system
-- **[GitHub Learning Lab](https://lab.github.com/)** - Interactive GitHub tutorials
-- **[GitKraken](https://www.gitkraken.com/)** - Git GUI client
-- **[SourceTree](https://www.sourcetreeapp.com/)** - Free Git GUI client
+- **[Git Official Documentation](https://git-scm.com/doc)** - Complete Git reference
+- **[GitHub Guides](https://guides.github.com/)** - Official GitHub tutorials
+- **[GitLab Documentation](https://docs.gitlab.com/)** - GitLab CI/CD and repository management
 
-### Database Tools
-- **[pgAdmin](https://www.pgadmin.org/)** - PostgreSQL administration and development
-- **[MongoDB Compass](https://www.mongodb.com/try/download/compass)** - MongoDB GUI
-- **[RedisInsight](https://redis.io/redisinsight/)** - Redis GUI client
-- **[DBeaver](https://dbeaver.io/)** - Universal database tool
+### Package Managers
+- **[npm Documentation](https://docs.npmjs.com/)** - Node.js package manager
+- **[pip Documentation](https://pip.pypa.io/en/stable/)** - Python package installer
+- **[Yarn Documentation](https://yarnpkg.com/getting-started)** - Fast, reliable JavaScript package manager
 
-### API Development & Testing
-- **[Postman](https://www.postman.com/)** - API development and testing environment
-- **[Insomnia](https://insomnia.rest/)** - API client for debugging and testing
-- **[Swagger UI](https://swagger.io/tools/swagger-ui/)** - Interactive API documentation
-- **[HTTPie](https://httpie.io/)** - Human-friendly cURL-like tool
+## 📊 Practice Platforms
 
-## 📝 How to Use These Resources
+### Coding Practice
+- **[LeetCode](https://leetcode.com/)** - Coding interview preparation
+- **[HackerRank](https://www.hackerrank.com/)** - Technical skill assessment and practice
+- **[CodeSignal](https://codesignal.com/)** - Technical interview assessment platform
+- **[Codewars](https://www.codewars.com/)** - Gamified coding practice
 
-### Daily Study Approach
-1. **Start with Theory** (15-30 min): Watch videos or read documentation
-2. **Apply Knowledge** (1-2 hours): Code along with tutorials or build small projects
-3. **Practice Problems** (1-2 hours): Solve LeetCode problems or build features
-4. **Review & Reinforce** (15-30 min): Use flashcards, summarize learnings, or teach concepts
+### System Design Practice
+- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** - System design interview prep
+- **[Exponent](https://www.exponent.ai/)** - System design and product interview practice
+- **[Interviewing.io](https://interviewing.io/)** - Anonymous technical interview practice
 
-### Resource Selection Tips
-- **Official Documentation First**: Always start with official docs for accuracy
-- **Video for Introduction**: Use videos to get oriented, then docs for depth
-- **Practice Platforms for Application**: LeetCode, HackerRank for coding practice
-- **Blogs for Advanced Topics**: Engineering blogs for real-world insights
-- **Books for Deep Dives**: Use when you want comprehensive coverage
+### DevOps Practice
+- **[Katacoda](https://www.katacoda.com/)** - Interactive learning environments for DevOps
+- **[Play with Kubernetes](https://labs.play-with-k8s.com/)** - Online Kubernetes playground
+- **[AWS Free Tier](https://aws.amazon.com/free/)** - Hands-on cloud practice
 
-### Tracking Progress
-- **Check off completed resources** as you go through them
-- **Note difficult concepts** for later review
-- **Bookmark useful tutorials** for future reference
-- **Create personal notes** summarizing key takeaways
+## 📝 Additional References
 
-### When You Get Stuck
-1. **Search Official Documentation** - Often has the answer
-2. **Check Stack Overflow** - Search for specific error messages
-3. **Look at Similar Tutorials** - Different explanations can help
-4. **Ask in Communities** - Reddit, Discord, or Stack Exchange
-5. **Take a Break** - Sometimes stepping away helps clarity
+### Cheat Sheets
+- **[Python Cheat Sheet](https://www.pythoncheatsheet.org/)** - Quick Python reference
+- **[SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)** - SQL commands reference
+- **[React Cheat Sheet](https://devhints.io/react)** - React concepts reference
+- **[Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)** - Docker commands reference
 
-## 🎯 Resource Prioritization by Day
-
-### Day 1-5 (DSA Focus)
-- Tech Interview Handbook (primary)
-- NeetCode Top 150 problem list
-- LeetCode for practice
-- GeeksforGeeks for visual explanations
-- YouTube channels: NeetCode, Back To SWE, Kevin Naughton Jr.
-
-### Day 6 (System Design)
-- System Design Primer (read relevant sections)
-- ByteByteGo or Design Gurus courses
-- Exponent or Interview Query for practice
-- Engineering blogs for real-world examples
-
-### Day 7 (FastAPI/SQL)
-- FastAPI official tutorial (complete it)
-- SQLAlchemy tutorial (focus on ORM)
-- Pydantic documentation (validation focus)
-- Build the blog API project from scratch
-
-### Day 8 (React/TS)
-- TypeScript with React video (watch and code along)
-- React official docs (hooks and components)
-- TypeScript Handbook (intermediate sections)
-- Build the todo app with testing
-
-### Day 9 (Docker)
-- Docker Get Started Guide (complete tutorials)
-- Dockerfile best practices (apply to your projects)
-- docker-compose guide (multi-service setup)
-- Containerize your Day 7 & 8 projects
-
-### Day 10 (CI-CD)
-- GitHub Actions quickstart (build your first workflow)
-- Workflow syntax reference (as needed)
-- Add CI to your Dockerized projects
-- Experiment with different workflow triggers
-
-### Day 11 (AI/RAG/LLMs)
-- Hugging Face Transformers docs (basic usage)
-- Pinecone RAG tutorial (build simple RAG)
-- LangChain introduction (optional deeper dive)
-- Build the RAG chatbot project
-
-### Day 12 (Integrated Project)
-- All previous resources as reference
-- Focus on integration and problem-solving
-- Use documentation as needed for specific issues
-
-### Day 13-14 (Review & Practice)
-- Revisit difficult resources from earlier days
-- Practice problems from all categories
-- Mock interviews and peer feedback
-- Create personal cheat sheets and summaries
-
-## 💡 Tips for Effective Resource Use
-
-### Active Learning vs Passive Consumption
-- **Code along** with tutorials rather than just watching
-- **Build variations** of tutorial projects to deepen understanding
-- **Explain concepts** to yourself or others (rubber duck debugging)
-- **Teach back** what you've learned to reinforce knowledge
-
-### Managing Information Overload
-- **Focus on one resource at a time** - complete it before moving to next
-- **Take notes** in your own words, don't just copy
-- **Create visual aids** like diagrams or mind maps
-- **Use spaced repetition** for memorization-heavy topics
-
-### Evaluating Resource Quality
-- **Check publication dates** - prefer recent resources for fast-changing tech
-- **Look for official sources** - documentation from creators is most accurate
-- **Read reviews/comments** - community feedback helps identify quality
-- **Start with free resources** - many excellent free options exist
-- **Invest in paid resources** only when they clearly add value
-
-### Building Your Personal Knowledge Base
-- **Bookmark effectively** - use folders/tags in your browser
-- **Save code snippets** - useful patterns and solutions
-- **Create a personal wiki** - Notion, Obsidian, or simple markdown files
-- **Review regularly** - weekly review of what you've learned
-- **Apply immediately** - use new knowledge in projects or problems
-
-## 🚨 When Resources Conflict
-
-### Common Scenarios and Solutions
-1. **Different Approaches to Same Problem**
-   - Understand trade-offs of each approach
-   - Know when each is appropriate
-   - Practice implementing both
-
-2. **Outdated Information**
-   - Check publication/update dates
-   - Prefer official documentation for current best practices
-   - Look for migration guides when updating
-
-3. **Contradictory Best Practices**
-   - Consider context (project size, team, requirements)
-   - Understand principles behind each practice
-   - Adapt based on your specific situation
-
-4. **Too Much Information**
-   - Start with core concepts first
-   - Add advanced topics as you build foundation
-   - Use the 80/20 rule - focus on high-impact topics
-
-## 📈 Measuring Resource Effectiveness
-
-### Signs a Resource Is Working Well
-- You can explain concepts in your own words
-- You can apply knowledge to solve problems
-- You notice patterns across different resources
-- You feel confident discussing the topic
-- You can teach the concept to someone else
-
-### Signs You Need Different Resources
-- You're confused after multiple exposures
-- You can't apply knowledge to simple problems
-- The resource assumes knowledge you don't have
-- You're bored or disengaged with the material
-- You're memorizing without understanding
-
-### Adjusting Your Approach
-- Try different formats (video vs text vs interactive)
-- Break complex topics into smaller chunks
-- Find prerequisite resources you might be missing
-- Change your learning environment or time of day
-- Pair with a study buddy for discussion
-
----
-
-*This resource list is curated to support the 14-day study plan. Feel free to add your own discoveries and remove resources that don't work for your learning style.*
+### Community & Forums
+- **[Stack Overflow](https://stackoverflow.com/)** - Programming Q&A community
+- **[Reddit r/learnprogramming](https://www.reddit.com/r/learnprogramming/)** - Learning programming community
+- **[Discord Developer Communities** - Various tech-focused Discord servers
+- **[LinkedIn Learning](https://www.linkedin.com/learning/)** - Professional skill development
