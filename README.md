@@ -5,17 +5,18 @@ This repository contains a comprehensive 14-day study plan designed to prepare s
 ## Overview
 
 The plan covers:
-- **Data Structures & Algorithms**: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming
-- **System Design**: Scalability, load balancing, caching, database design
+- **Data Structures & Algorithms**: Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Dynamic Programming
+- **System Design**: Scalability, load balancing, caching, database design, real-time systems
 - **Backend Development**: Python FastAPI, SQLAlchemy, PostgreSQL
-- **Frontend Development**: React, TypeScript, state management
+- **Frontend Development**: React, TypeScript, state management, hooks
 - **DevOps**: Docker, GitHub Actions CI/CD
 - **AI/ML**: Retrieval-Augmented Generation (RAG), Large Language Models (LLMs)
+- **Interview Preparation**: MCQs, mock interviews, behavioral STAR method
 
 Each day includes:
-- ⏰ Specific time allocations (4-8 hours/day)
+- ⏰ Specific time allocations (3-4 hours/day)
 - 📚 Learning resources with direct links
-- 💻 Coding problems (LeetCode-specific)
+- 💻 Coding problems (LeetCode-specific with solutions)
 - ❓ MCQs for concept reinforcement
 - 🎤 Mock interview suggestions
 - 🛠️ Hands-on projects and exercises
@@ -25,71 +26,72 @@ Each day includes:
 ```
 14-day-se-study-plan-complete/
 ├── README.md                    # This file
-├── STUDY_PLAN.md               # Detailed day-by-day breakdown
-├── RESOURCES.md                # Curated resource list
-├── CODING_PROBLEMS.md          # Complete LeetCode problem list
-├── MCQ_QUESTIONS.md            # Multiple choice questions by topic
-└── solutions/                  # Directory for coding problem solutions
-    ├── day01_arrays_strings/
-    ├── day02_linked_lists/
-    ├── day03_trees/
-    ├── day04_graphs/
-    ├── day05_dp/
-    ├── day06_system_design/
-    ├── day07_fastapi_sql/
-    ├── day08_react_ts/
-    ├── day09_docker/
-    ├── day10_ci_cd/
-    ├── day11_ai_rag_llms/
-    ├── day12_integrated_project/
-    ├── day13_mock_interviews/
-    └── day14_final_review/
+├── STUDY_PLAN.md               # Detailed day-by-day breakdown (Days 1-14)
+├── RESOURCES.md                # Curated resource list by topic
+├── MCQS.md                     # 30 multiple choice questions with answers
+├── solutions/                  # Directory for coding problem solutions
+│   ├── 0001_two_sum.py
+│   ├── 0002_valid_anagram.py
+│   ├── 0003_contains_duplicate.py
+│   ├── 0004_product_of_array_except_self.py
+│   ├── 0005_maximum_subarray.py
+│   ├── 0006_climbing_stairs.py
+│   ├── 0007_best_time_to_buy_and_sell_stock.py
+│   ├── 0008_house_robber.py
+│   └── ... (more solutions to be added)
+└── ... (additional files as needed)
 ```
 
 ## How to Use This Plan
 
 1. **Follow the daily schedule** in `STUDY_PLAN.md`
-2. **Complete the coding problems** listed in `CODING_PROBLEMS.md`
+2. **Complete the coding problems** and refer to solutions in the `solutions/` directory
 3. **Review concepts** using resources in `RESOURCES.md`
-4. **Test your knowledge** with MCQs in `MCQ_QUESTIONS.md`
-5. **Practice mock interviews** as suggested
-6. **Build the integrated project** on Day 12
+4. **Test your knowledge** with MCQs in `MCQS.md`
+5. **Practice mock interviews** as suggested in the study plan
+6. **Build hands-on projects** for FastAPI, React, Docker, etc.
 7. **Review and refine** on Days 13-14
 
 ## Topics Covered
 
 ### Week 1: Core CS Fundamentals
-- **Day 1**: Arrays & Strings
-- **Day 2**: Linked Lists
-- **Day 3**: Trees
-- **Day 4**: Graphs
-- **Day 5**: Dynamic Programming
-- **Day 6**: System Design Basics
-- **Day 7**: Python FastAPI + SQL
+- **Day 1-2**: Arrays, Strings, Hashing (Two Sum, Valid Anagram, etc.)
+- **Day 3-4**: Trees & Graphs (Binary Trees, BST, Graph Traversal)
+- **Day 5-6**: Dynamic Programming (Climbing Stairs, Stock Profit, House Robber)
+- **Day 7-8**: System Design (URL Shortener, Chat System, Rate Limiting)
 
 ### Week 2: Full-Stack & Modern Practices
-- **Day 8**: React TypeScript
-- **Day 9**: Docker Containerization
-- **Day 10**: CI-CD with GitHub Actions
-- **Day 11**: AI RAG LLMs Basics
-- **Day 12**: Integrated Full-Stack Project
-- **Day 13**: Mock Interviews & Review
-- **Day 14**: Final Review & Practice
+- **Day 9-10**: Python FastAPI + SQL (REST APIs, Database ORM)
+- **Day 11-12**: React TypeScript + Docker + CI/CD (Component Architecture, Containerization)
+- **Day 13**: AI RAG LLMs Basics (Transformers, Embeddings, Chatbots)
+- **Day 14**: Mock Interviews + Behavioral Prep (Technical + STAR method)
 
 ## Expected Outcomes
 
 By completing this plan, you will:
-- ✅ Solve 100+ LeetCode problems across all major topics
-- ✅ Build and deploy a full-stack application
-- ✅ Master Docker containerization and CI-CD pipelines
+- ✅ Solve 50+ LeetCode problems across all major topics with provided solutions
+- ✅ Master core CS concepts: arrays, strings, trees, graphs, DP
+- ✅ Gain hands-on experience with FastAPI, React, Docker, and CI/CD
 - ✅ Understand system design principles for scalable applications
-- ✅ Gain hands-on experience with AI/RAG/LLM applications
+- ✅ Learn AI/RAG/LLM fundamentals and build simple applications
 - ✅ Be prepared for technical interviews at top tech companies
-- ✅ Have a portfolio project showcasing your skills
+- ✅ Have practical experience with modern development tools and practices
+- ✅ Reinforce learning with 30 MCQs covering all topics
+
+## Solutions Included
+
+The `solutions/` directory contains Python implementations with:
+- Clean, readable code
+- Detailed comments explaining the approach
+- Time and space complexity analysis
+- Multiple approaches where applicable
+- Test cases demonstrating usage
+- Performance comparisons
 
 ## Contributing
 
 Feel free to submit issues or pull requests to improve this study plan!
+Add more solutions, improve explanations, or suggest additional resources.
 
 ## License
 
