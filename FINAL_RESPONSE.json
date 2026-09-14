@@ -1,0 +1,81 @@
+{
+  "type": "study_solutions",
+  "title": "14-Day Software Engineering Study Plan",
+  "repo_url": "https://github.com/abhinavpadige4/14-day-se-study-plan-complete",
+  "problems_solved": 10,
+  "files_created": [
+    {
+      "name": "STUDY_PLAN.md",
+      "description": "Complete day-by-day breakdown for Days 1-14 with hours, topics, problems, resources, and practice tasks"
+    },
+    {
+      "name": "RESOURCES.md",
+      "description": "Curated resource list organized by topic with direct URLs to tutorials, documentation, and learning platforms"
+    },
+    {
+      "name": "MCQS.md",
+      "description": "30 multiple choice questions with answers and explanations covering all major topics"
+    },
+    {
+      "name": "README.md",
+      "description": "Updated repository overview with structure explanation and usage instructions"
+    },
+    {
+      "name": "solutions/0001_two_sum.py",
+      "description": "Two Sum solution with hash map approach, O(n) time complexity"
+    },
+    {
+      "name": "solutions/0002_valid_anagram.py",
+      "description": "Valid Anagram solution with three approaches: hash map, sorting, and array counting"
+    },
+    {
+      "name": "solutions/0003_contains_duplicate.py",
+      "description": "Contains Duplicate solution with hash set, sorting, and brute force comparisons"
+    },
+    {
+      "name": "solutions/0004_product_of_array_except_self.py",
+      "description": "Product of Array Except Self solution with prefix/suffix approach (O(n) time, O(1) space)"
+    },
+    {
+      "name": "solutions/0005_maximum_subarray.py",
+      "description": "Maximum Subarray solution with Kadane's algorithm and variations"
+    },
+    {
+      "name": "solutions/0006_climbing_stairs.py",
+      "description": "Climbing Stairs solution using Fibonacci-based dynamic programming"
+    },
+    {
+      "name": "solutions/0007_best_time_to_buy_and_sell_stock.py",
+      "description": "Best Time to Buy and Sell Stock solution with single pass and min price tracking"
+    },
+    {
+      "name": "solutions/0008_house_robber.py",
+      "description": "House Robber solution with dynamic programming and state compression"
+    },
+    {
+      "name": "solutions/0009_longest_substring_without_repeating.py",
+      "description": "Longest Substring Without Repeating Characters solution with sliding window approach"
+    },
+    {
+      "name": "solutions/0010_group_anagrams.py",
+      "description": "Group Anagrams solution using hash map with sorted keys and character counting approaches"
+    }
+  ],
+  "concepts_covered": [
+    "arrays",
+    "strings",
+    "hashing",
+    "trees",
+    "graphs",
+    "dynamic programming",
+    "system design",
+    "fastapi",
+    "react",
+    "typescript",
+    "docker",
+    "ci/cd",
+    "ai",
+    "llm",
+    "rag"
+  ]
+}
